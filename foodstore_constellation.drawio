@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T11:02:34.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="tjP_tCHwmBu-_U4pb127" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T11:04:16.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="mpEopAHMz0gmpTNUal6Q" version="15.0.6" type="github">
   <diagram id="3vztMz24TurzWw2ImpLo" name="Page-1">
-    <mxGraphModel dx="3164" dy="2905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3768" dy="3132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,7 +461,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ls4i8sB4guF4dH7JO23H-471" value="dm_Cheques" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1000" y="-110" width="210" height="540" as="geometry" />
+          <mxGeometry x="-710" y="-390" width="210" height="540" as="geometry" />
         </mxCell>
         <mxCell id="ls4i8sB4guF4dH7JO23H-472" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=1;" parent="ls4i8sB4guF4dH7JO23H-471" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -617,7 +617,7 @@
           <mxGeometry x="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ls4i8sB4guF4dH7JO23H-535" value="dm_sold_goods" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="-110" width="210" height="510" as="geometry" />
+          <mxGeometry x="-150" y="-360" width="210" height="510" as="geometry" />
         </mxCell>
         <mxCell id="ls4i8sB4guF4dH7JO23H-536" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=1;" parent="ls4i8sB4guF4dH7JO23H-535" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -764,10 +764,10 @@
           <mxGeometry x="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ls4i8sB4guF4dH7JO23H-607" value="Витрина с продажами(1 строка - 1 чек) . &lt;br&gt;&lt;br&gt;Здесь можно вести аналитику, сколько клиентов купили продуктов.&lt;br&gt;сколько времени занимала доставка от момента заказа.&lt;br&gt;Процент возвратов среди всех заказов.&amp;nbsp;&lt;br&gt;&amp;nbsp;смотреть оборот по магазинам" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1080" y="-250" width="370" height="120" as="geometry" />
+          <mxGeometry x="-750" y="-530" width="370" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ls4i8sB4guF4dH7JO23H-608" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Витрина со списком проданных товаров. (1 строка - 1 уникальный&amp;nbsp; артикул внутри чека) .&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Можно смотреть какие клиенты сколько тратят на покупки за период времени, какие товары они предпочитают.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Срок выкупаемости товара&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Смотреть за динамикой среднего чека&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="-230" width="390" height="90" as="geometry" />
+          <mxGeometry x="-160" y="-500" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ls4i8sB4guF4dH7JO23H-635" value="fct_Deliveries" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="-1000" width="200" height="120" as="geometry" />
