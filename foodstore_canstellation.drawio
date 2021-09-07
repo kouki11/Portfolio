@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-04T16:08:41.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ascF11IEpJUeoBCGUNB9" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T18:06:58.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="2ZrdtMgBkSywVIcmAbUV" version="15.0.1" type="github">
   <diagram id="3vztMz24TurzWw2ImpLo" name="Page-1">
-    <mxGraphModel dx="3010" dy="3206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4629" dy="4066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -801,9 +801,6 @@
         </mxCell>
         <mxCell id="i5jeZCbsVCGeZzfkc3uB-417" value="start_dttm" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="i5jeZCbsVCGeZzfkc3uB-415" vertex="1">
           <mxGeometry x="50" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="i5jeZCbsVCGeZzfkc3uB-418" value="Если у поставщика добавляется имя или город, то добавляется новая строка в таблице с новой действительной датой" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1360" y="-2020" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i5jeZCbsVCGeZzfkc3uB-419" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;shadow=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="i5jeZCbsVCGeZzfkc3uB-309" target="i5jeZCbsVCGeZzfkc3uB-412" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
